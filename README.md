@@ -9,6 +9,7 @@ Depends on the [pyusb](https://walac.github.io/pyusb/) module.
 Compatibility
 -------------
 Only known to support the Aquaero 6. May support other devices. Use at your own risk.
+Write Support is comming soon... end of Year. Currenty only works in read mode.
 
 Usage
 -----
